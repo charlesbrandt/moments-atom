@@ -2,10 +2,10 @@
   "name": "moments-atom",
   "main": "./lib/moments-atom",
   "version": "0.0.1",
-  "description": "A short description of your package",
+  "description": "A package for the Atom editor for easily creating timestamps",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "moments-atom:journal"
+    "atom-workspace": [ "moments-atom:journal", "moments-atom:now", "moments-atom:complete", "moments-atom:also", "moments-atom:stamp" ]
   },
   "repository": "https://github.com/charlesbrandt/moments-atom",
   "license": "MIT",

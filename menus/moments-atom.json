@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle moments-atom",
-        "command": "moments-atom:toggle"
+        "label": "Insert timestamp",
+        "command": "moments-atom:now"
       }
     ]
   },
@@ -15,8 +15,20 @@
           "label": "moments-atom",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "moments-atom:toggle"
+              "label": "New Journal",
+              "command": "moments-atom:journal"
+            },
+            {
+              "label": "Mark Complete",
+              "command": "moments-atom:complete"
+            },
+            {
+              "label": "Add also",
+              "command": "moments-atom:also"
+            },
+            {
+              "label": "Add timestamp",
+              "command": "moments-atom:now"
             }
           ]
         }
