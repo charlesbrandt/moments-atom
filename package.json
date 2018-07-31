@@ -1,7 +1,7 @@
 {
   "name": "moments-atom",
   "main": "./lib/moments-atom",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A package for the Atom editor for easily creating timestamps",
   "keywords": [],
   "activationCommands": {
