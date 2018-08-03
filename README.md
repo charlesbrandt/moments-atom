@@ -8,13 +8,13 @@ Install dependencies locally:
 
    yarn install
 
-### Creating a new package for Atom:
+## Similar to
 
-Follow along with the documentation:  
-https://flight-manual.atom.io/hacking-atom/sections/package-modifying-text/
-
-Atom API:  
-https://atom.io/docs/api/v1.28.2/TextEditor
+   https://atom.io/packages/time-notes  
+   https://atom.io/packages/simple-timestamps  
+   https://atom.io/packages/comment-timestamp  
+   https://atom.io/packages/insert-timestamp  
+   https://atom.io/packages/atom-timestamp  
 
 ## Resources
 
@@ -26,3 +26,6 @@ https://github.com/charlesbrandt/moments/blob/master/editors/emacs/.emacs.d/jour
 
 Utilizes:  
 http://momentjs.com/
+
+Atom API:  
+https://atom.io/docs/api/v1.28.2/TextEditor
